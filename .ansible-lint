@@ -1,3 +1,5 @@
+exclude_paths:
+  - .github/workflows/
 warn_list:
   - command-instead-of-shell
   - no-changed-when
